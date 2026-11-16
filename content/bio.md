@@ -25,6 +25,10 @@ projects:
     description: "Another project description"
     tech: ["React", "Node.js", "PostgreSQL"]
     link: "https://github.com/yourusername/project-two"
+  - name: "Project"
+    description: "Another project description"
+    tech: ["React"]
+    link: "https://github.com/yourusername/project-two"
 ---
 
 Passionate developer with experience in building modern web applications.
